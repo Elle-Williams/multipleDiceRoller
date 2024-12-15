@@ -37,7 +37,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-A simple counter program. Completed with Javascript, HMTL, and CSS.
+A dice roller program. Completed with Javascript, HTML, and CSS.
 
 <!-- CONTACT -->
 
