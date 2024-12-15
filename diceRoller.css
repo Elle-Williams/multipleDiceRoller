@@ -3,6 +3,8 @@
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
   font-size: 2rem;
+  padding: 20px;
+  margin: 250px auto;
 }
 button {
   font-size: 1.5rem;
@@ -19,15 +21,15 @@ button:hover {
 button:active {
   background-color: hsl(0, 100%, 70%);
 }
-input{
-    font-size: 2rem;
-    width 150px;
-    text-align: center;
+input {
+  font-size: 2rem;
+  width: 150px;
+  text-align: center;
 }
-#diceResult{
+#diceResult {
   margin: 25px;
 }
-#diceImages img{
+#diceImages img {
   width: 150px;
   margin: 5px;
 }
